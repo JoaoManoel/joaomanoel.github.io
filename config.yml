@@ -55,7 +55,7 @@ Menus:
 
 params:
   title: "Portfolio"
-  description: João Manoel's portfolio
+  description: "João Manoel's portfolio"
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
