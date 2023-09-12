@@ -54,7 +54,7 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
+  title: "Portfolio"
   description: João Manoel's portfolio
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
