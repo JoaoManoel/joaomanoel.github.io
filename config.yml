@@ -1,7 +1,8 @@
-baseURL: https://joaomanoel.com.br
+baseURL: "https://joaomanoel.com.br"
 languageCode: en-us
-title: João Manoel Lins
+title: "João Manoel Lins"
 theme: hugo-profile
+publishDir: "docs"
 
 outputs:
   home:
